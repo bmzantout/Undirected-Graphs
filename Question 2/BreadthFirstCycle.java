@@ -9,9 +9,6 @@ public class BreadthFirstCycle {
 	//-----------------------------------------------------------------
 	// Title: Question 2
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This class uses the BSF or Breadth First Search 
 	//              algorithm to traverse over each vertex in a graph
 	//              (finds a path in a graph). It also has methods that
