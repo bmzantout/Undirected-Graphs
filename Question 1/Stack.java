@@ -8,14 +8,11 @@ public class Stack<Item> implements Iterable<Item>{
 	//-----------------------------------------------------------------
 	// Title: Question 1
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is a generic class used by the BreadthFirstPaths
 	//              class. It is used by the "pathTo" in the BreadthFirstPaths
 	//              class. So, this data structure helps in storing the 
-    //              vertices and printing them out when finding the shortest
-    //              path in a graph.
+        //              vertices and printing them out when finding the shortest
+        //              path in a graph.
 	//-----------------------------------------------------------------
 	
 
