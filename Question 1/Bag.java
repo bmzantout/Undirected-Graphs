@@ -7,9 +7,6 @@ public class Bag<Item> implements Iterable<Item> {
 	//-----------------------------------------------------------------
 	// Title: Question 1
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is a generic class used by the UndirectedGraph
 	//              class. It is used to as a data structure to store the
 	//              a graph in the form of an adjacency list of vertices.
