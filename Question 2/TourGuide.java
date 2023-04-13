@@ -14,14 +14,11 @@ public class TourGuide {
 		//-----------------------------------------------------------------
 		// Title: Question 2
 		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 1
 		// Description: This is the main class for Question 2 which calls 
 		//              the methods that perform the needed operations, 
-	    //              which are intended to find the shortest cycle 
-	    //              starting from one island  and including a given
-	    //              specific island
+	        //              which are intended to find the shortest cycle 
+	        //              starting from one island  and including a given
+	        //              specific island
 		//-----------------------------------------------------------------
 		
 
