@@ -7,14 +7,11 @@ public class ShortestPath {
 	//-----------------------------------------------------------------
 	// Title: Question 1
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is a class used by the main class. It 
 	//              has the methods that perform the needed operations, 
-    //              which are intended to find and calculate the time
+        //              which are intended to find and calculate the time
 	//              taken in the shortest path from one airport to 
-    //              another in a given airlines graph.
+        //              another in a given airlines graph.
 	//-----------------------------------------------------------------
 	
 	
