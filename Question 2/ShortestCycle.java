@@ -8,13 +8,10 @@ public class ShortestCycle {
 	//-----------------------------------------------------------------
 	// Title: Question 2
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is a class used by the main class. It 
 	//              has the methods that perform the needed operations, 
-    //              which are intended to find the shortest cycle starting
-    //              from a given vertex and including a specific vertex.
+        //              which are intended to find the shortest cycle starting
+        //              from a given vertex and including a specific vertex.
 	//-----------------------------------------------------------------
 	
 	
