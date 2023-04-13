@@ -7,9 +7,6 @@ public class Queue<Item> {
 	//-----------------------------------------------------------------
 	// Title: Question 1
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is a generic class used by the BreadthFirstPaths
 	//              class which traverses over a graph and finds a 
 	//              path through all its vertices. So, this data 
