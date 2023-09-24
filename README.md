@@ -10,7 +10,7 @@ Engaging with this project helps develop a comprehensive understanding of how to
 
 ### Prerequisites
 
-Before getting started with this project, you will need to have a working knowledge of programming concepts and basic data structures such as trees. Additionally, you will need to have a programming environment set up with a compatible language, such as Python, C++, or Java.
+Before getting started with this project, you will need to have a working knowledge of programming concepts and basic data structures such as graphs. Additionally, you will need to have a programming environment set up with a compatible language, such as Python, C++, or Java.
 
 ### Installation
 
