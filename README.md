@@ -1,5 +1,5 @@
 # Undirected-Graphs
-A project that provides hands-on practice on the implementation of Heap-Based Priority Queue structure.
+A project that provides hands-on practice on the implementation of Undirected Graphs structure.
 
 ## Data Structures and Algorithms Project
 ## Introduction
